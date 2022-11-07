@@ -1,0 +1,1 @@
+cmd_/home/rushabh_sheta/cmpe283a1/Module.symvers := sed 's/ko$$/o/' /home/rushabh_sheta/cmpe283a1/modules.order | scripts/mod/modpost -m    -o /home/rushabh_sheta/cmpe283a1/Module.symvers -e -i Module.symvers   -T -
