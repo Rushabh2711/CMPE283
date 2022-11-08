@@ -1,6 +1,12 @@
 # Assigment 1
-### 1. I have completed this assignment by myself.
-### 2. Detail steps I used to complete the assignment.
+## 1. I have completed this assignment by myself.
+## 2. Detail steps I used to complete the assignment.
+
+### Functionality Implemented
+- Determines if the CPU supports VMX true controls
+- Based on the above, read various MSRs to ascertain support capabilities/features - Entry / Exit / Procbased / Secondary Procbased/ Tertiary Procbased controls / Pinbased controls
+- For each group of controls above, interpret and output the values read from the MSR to the system via printk(..), including if the value can be set or cleared.
+
 I am using GDF to discover VMX features present in processor by writing a Linux kernel module that queries these features.
 
 1. Create a project in GDF.
