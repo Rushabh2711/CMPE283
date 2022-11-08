@@ -32,11 +32,19 @@ we are using GDF to discover VMX features present in processor by writing a Linu
 
 ![16](https://user-images.githubusercontent.com/28814244/200372304-e2d9f2a7-9126-4046-a580-928b16dd9358.PNG)
 
+8. Install Linux Kernal Headers Package
+
 ![17](https://user-images.githubusercontent.com/28814244/200372318-db102701-908c-4a19-9baf-032d31e28c93.PNG)
+
+9. run make command.
 
 ![18](https://user-images.githubusercontent.com/28814244/200372334-ee0efca3-1337-419f-bdaa-0b84959f6141.PNG)
 
+10.
+
 ![19](https://user-images.githubusercontent.com/28814244/200372351-bb5eb6e4-3f12-4c29-825d-8b2d7558aa7c.PNG)
+
+11. Output
 
 ![20](https://user-images.githubusercontent.com/28814244/200372365-faa0ba55-c02f-420a-ad22-1e0bdaa06f74.PNG)
 
