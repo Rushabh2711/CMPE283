@@ -1,20 +1,34 @@
 # Assigment 1
 ### 1. For each member in your team, provide 1 paragraph detailing what parts of the lab that member implemented / researched. (You may skip this question if you are doing the lab by yourself).
 ### 2. Describe in detail the steps you used to complete the assignment.
+we are using GDF to discover VMX features present in processor by writing a Linux kernel module that queries these features.
+
+1. Create a project in GDF.
 
 ![1](https://user-images.githubusercontent.com/28814244/200367899-04f35486-8827-433d-962c-401a393fe086.PNG)
 
+2. Assign Billing account, Organization and Location to the project.
+
 ![2](https://user-images.githubusercontent.com/28814244/200370471-88b93007-1cac-468d-868f-b7efc2143443.PNG)
+
+3. Cretae new VM instance from scratch.
 
 ![6](https://user-images.githubusercontent.com/28814244/200370877-e083b70b-a18c-409b-8ca8-7a9f4cbed37a.PNG)
 
-![8](https://user-images.githubusercontent.com/28814244/200370920-06c081ab-de7a-4d4c-8ca2-2de53d851c1f.PNG)
+4. Specify Details like, Region, Zone, Disk size, service account, min-cpu-platform etc.
 
+![8](https://user-images.githubusercontent.com/28814244/200370920-06c081ab-de7a-4d4c-8ca2-2de53d851c1f.PNG)
 ![9](https://user-images.githubusercontent.com/28814244/200371414-433913c8-5f17-4c06-b763-e212ec490a18.PNG)
+
+5. Make sure to enable nested virtualization. here, we are using equivalent command line and run the shell script in google cloud terminal.
 
 ![11](https://user-images.githubusercontent.com/28814244/200371474-ba0f59bc-9814-48cd-8400-3f02e6b9a969.PNG)
 
+6. created a directory and generate Makefile and cmpe283-1.c file.
+
 ![15](https://user-images.githubusercontent.com/28814244/200372284-323215e2-5a7e-4f5d-8940-15542de69b9f.PNG)
+
+7. Install gcc make. Using apt install gcc make command.
 
 ![16](https://user-images.githubusercontent.com/28814244/200372304-e2d9f2a7-9126-4046-a580-928b16dd9358.PNG)
 
